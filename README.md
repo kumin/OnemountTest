@@ -13,4 +13,5 @@ export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
 Run command
 ```
 $ source ~/.bashrc
+$ pyspark
 ```
