@@ -1,4 +1,4 @@
-# Run Guideline
+# Running Guideline
 
 ### Setup Environment
 
