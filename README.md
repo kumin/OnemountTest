@@ -23,7 +23,6 @@ export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
 Run command to apply environment variables above
 ```
 $ source ~/.bashrc
-$ pyspark
 ```
 Run command to open Jupyter notebook
 ```
