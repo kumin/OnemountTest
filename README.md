@@ -3,6 +3,8 @@
 ### Setup Environment
 Python version: 3.6
 
+PySpark version: 3.0.1
+
 You'd better to create a virtual env for running python files. If you haven't known how yet, see here https://docs.python.org/3/tutorial/venv.html
 
 Run command to install dependent libraries
