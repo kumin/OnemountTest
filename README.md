@@ -1,11 +1,11 @@
 # Running Guideline
-
+This test was edited and run on Jupyter Notebook https://jupyter.org/
 ### Setup Environment
 Python version: 3.6
 
 PySpark version: 3.0.1
 
-You'd better to create a virtual env for running python files. If you haven't known how yet, see here https://docs.python.org/3/tutorial/venv.html
+You'd better to create a virtual env for running this python code. If you haven't known how yet, see here https://docs.python.org/3/tutorial/venv.html
 
 Run command to install dependent libraries
 
